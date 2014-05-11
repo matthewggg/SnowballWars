@@ -1,4 +1,4 @@
-package com.lightniinja.minigame;
+package com.lightniinja.snowballwars;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
