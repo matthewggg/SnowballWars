@@ -1,0 +1,10 @@
+## MinigameBase configuration
+# Arenas.0:
+#   Location: world,54,64,531
+#   Name: Test
+# Arenas.1:
+#   Location: world_the_end,705,128,12
+#   Name: TestTheEnd
+# Arenas.Arenas:
+#   - 0
+#   - 1
