@@ -1,4 +1,4 @@
-MinigameBase
+SnowballWars
 ============
 
-Base code for a Bukkit minigame plugin.
+Bukkit plugin - snowballwars [[http://dev.bukkit.org/bukkit-plugins/snowballwars|BukkitDev]]
