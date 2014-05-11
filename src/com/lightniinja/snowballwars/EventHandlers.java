@@ -1,4 +1,4 @@
-package com.lightniinja.minigame;
+package com.lightniinja.snowballwars;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
