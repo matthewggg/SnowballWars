@@ -1,4 +1,4 @@
-package com.lightniinja.snowballwars;
+package com.lightniinja.minigame;
 
 import java.util.HashMap;
 import java.util.List;

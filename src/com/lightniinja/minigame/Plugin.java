@@ -1,4 +1,4 @@
-package com.lightniinja.snowballwars;
+package com.lightniinja.minigame;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
